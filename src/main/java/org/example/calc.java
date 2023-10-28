@@ -9,7 +9,7 @@ public class calc {
     }
 
     public  int subtract(int a, int b){
-    int result = a -b;
+    int result = a - b;
     System.out.println("разность " + a + " и " + b + " = " + result);
     return result;
     }
